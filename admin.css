@@ -1,0 +1,11 @@
+/* css/admin.css */
+.xmlrpc-disabled-notice {
+  border-left: 4px solid #00a32a;
+  background: #f6fff8;
+  padding: 10px;
+}
+.xmlrpc-disabled-notice p {
+  margin: 0;
+  font-size: 14px;
+}
+
