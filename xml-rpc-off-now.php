@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:     xml rpc off now
- * Plugin URI:      https://openzenta.com/plugins/xml-rpc-off-now
+ * Plugin URI:      
  * Description:     Disables XML-RPC functionality in WordPress for improved security and shows an admin notice.
  * Version:         1.0
- * Author:          openvexa25
- * Author URI:      https://openzenta.com
+ * Author:          OpenZenta
+ * Author URI:      
  * License:         GPLv2 or later
  * Text Domain:     xml-rpc-off-now
  */
