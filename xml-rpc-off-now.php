@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name:     xml rpc off now
- * Plugin URI:      
  * Description:     Disables XML-RPC functionality in WordPress for improved security and shows an admin notice.
  * Version:         1.0
  * Author:          OpenZenta
